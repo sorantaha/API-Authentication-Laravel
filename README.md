@@ -11,5 +11,5 @@
 
 A Simple Laravel Project for testing API Authentication (SignIn/Up Api)
 
-You Can Test the API By Any API Platform like:- [Postman API Platform]([https://laravel.com/docs/routing](https://www.postman.com/)).
+You Can Test the API By Any API Platform like:- [Postman API Platform](https://www.postman.com/).
 
